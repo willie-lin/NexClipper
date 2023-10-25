@@ -10,17 +10,15 @@ require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-gonic/gin v1.4.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/golang/protobuf v1.3.2
-	github.com/google/uuid v1.1.1
+	github.com/golang/protobuf v1.5.3
+	github.com/google/uuid v1.3.0
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/jinzhu/gorm v1.9.10
-	github.com/mattn/go-isatty v0.0.10 // indirect
 	github.com/shirou/gopsutil v2.19.9+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/urfave/cli v1.22.1
-	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
-	google.golang.org/grpc v1.23.0
+	google.golang.org/grpc v1.56.3
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 	k8s.io/api v0.0.0-20190905160310-fb749d2f1064 // indirect
 	k8s.io/apimachinery v0.0.0-20190831074630-461753078381
